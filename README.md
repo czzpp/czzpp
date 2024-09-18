@@ -1,5 +1,5 @@
 - Hi, I'm @czzpp 👋
-- I am a junior high school student from Hangzhou, China.
+- I am a senior high school student from Hangzhou, China.
 - I’m currently learning C++, Python, and Java.
 
 - 📫 How to reach me ...
